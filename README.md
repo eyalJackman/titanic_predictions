@@ -20,4 +20,4 @@ This project uses several Python libraries:
 
 ## Results
 
-After training the model, the accuracy achieved on the test set is approximately 80%, indicating that the model can predict survival with a reasonably high accuracy.
+After training the model, the accuracy achieved on the test set is **approximately 80%**, indicating that the model can predict survival with a reasonably high accuracy.
